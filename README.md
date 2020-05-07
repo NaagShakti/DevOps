@@ -1,2 +1,2 @@
-# DevOps
-An Automation Project For CI CD Concept. Technologies Included: GitHub, Jenkins and Docker.
+# DevOps Projects
+###    This Repository Includes Projects Related To DevOps.
